@@ -6,7 +6,7 @@
 Summary:	%{_class}_%{_subclass} - Classes that define Quaternions and their operations
 Name:		php-pear-%{_pearname}
 Version:	0.7.1
-Release:	%mkrel 9
+Release:	%mkrel 10
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
